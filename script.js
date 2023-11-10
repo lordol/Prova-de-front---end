@@ -1,7 +1,4 @@
-{ `function exibirAlerta() `
-
-`alert("Olá! Isso é um  alerta");`
-}
+alert('prova de front-end')
 function mudarTexto() {
     document.getElementById("demo").innerHTML = "olá novamente";
 }
