@@ -1,3 +1,4 @@
+alert("Olá ")
 function mudarTexto() {
-    document.getElementById("demo").innerHTML = "Texto alterado!";
+    document.getElementById("demo").innerHTML = "olá novamente";
 }
